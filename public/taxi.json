@@ -1,0 +1,212 @@
+{
+  "taxis": [
+    {
+      "title": "Toyota Corolla",
+      "type": "Normal",
+      "driver": "Harun Dhaka",
+      "number": "dhaka ga-083923",
+      "available_at": "Dhaka",
+      "booked": false
+    },
+    {
+      "title": "Toyota Noah",
+      "type": "Normal",
+      "driver": "Harun Khulna",
+      "number": "Khulna ga-083923",
+      "available_at": "Khulna",
+      "booked": false
+    },
+    {
+      "title": "Mitsubishi Pajero",
+      "type": "Normal",
+      "driver": "Harun Gazipur",
+      "number": "Gazipur ga-083923",
+      "available_at": "Gazipur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Allion",
+      "type": "Normal",
+      "driver": "Harun Chuadanga",
+      "number": "Chuadanga ga-083923",
+      "available_at": "Chuadanga",
+      "booked": false
+    },
+    {
+      "title": "Toyota Axio",
+      "type": "Normal",
+      "driver": "Harun Sonargaon",
+      "number": "Sonargaon ga-083923",
+      "available_at": "Sonargaon",
+      "booked": false
+    },
+    {
+      "title": "Toyota Probox",
+      "type": "Normal",
+      "driver": "Harun Narayanganj",
+      "number": "Narayanganj ga-083923",
+      "available_at": "Narayanganj",
+      "booked": false
+    },
+    {
+      "title": "Toyota Fielder",
+      "type": "Normal",
+      "driver": "Harun Rangpur",
+      "number": "Rangpur ga-083923",
+      "available_at": "Rangpur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Corolla",
+      "type": "Normal",
+      "driver": "Harun Saidpur",
+      "number": "Saidpur ga-083923",
+      "available_at": "Saidpur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Noah",
+      "type": "Normal",
+      "driver": "Harun Dhaka 2",
+      "number": "dhaka ga-083923",
+      "available_at": "Dhaka",
+      "booked": false
+    },
+    {
+      "title": "Mitsubishi Pajero",
+      "type": "Normal",
+      "driver": "Harun Khulna 2",
+      "number": "Khulna ga-083923",
+      "available_at": "Khulna",
+      "booked": false
+    },
+    {
+      "title": "Toyota Allion",
+      "type": "Normal",
+      "driver": "Harun Gazipur 2",
+      "number": "Gazipur ga-083923",
+      "available_at": "Gazipur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Axio",
+      "type": "Normal",
+      "driver": "Harun Chuadanga 2",
+      "number": "Chuadanga ga-083923",
+      "available_at": "Chuadanga",
+      "booked": false
+    },
+    {
+      "title": "Toyota Probox",
+      "type": "Normal",
+      "driver": "Harun Sonargaon 2",
+      "number": "Sonargaon ga-083923",
+      "available_at": "Sonargaon",
+      "booked": false
+    },
+    {
+      "title": "Toyota Corolla",
+      "type": "Premium",
+      "driver": "Harun Dhaka",
+      "number": "dhaka ga-083923",
+      "available_at": "Dhaka",
+      "booked": false
+    },
+    {
+      "title": "Toyota Noah",
+      "type": "Premium",
+      "driver": "Harun Khulna",
+      "number": "Khulna ga-083923",
+      "available_at": "Khulna",
+      "booked": false
+    },
+    {
+      "title": "Mitsubishi Pajero",
+      "type": "Premium",
+      "driver": "Harun Gazipur",
+      "number": "Gazipur ga-083923",
+      "available_at": "Gazipur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Allion",
+      "type": "Premium",
+      "driver": "Harun Chuadanga",
+      "number": "Chuadanga ga-083923",
+      "available_at": "Chuadanga",
+      "booked": false
+    },
+    {
+      "title": "Toyota Axio",
+      "type": "Premium",
+      "driver": "Harun Sonargaon",
+      "number": "Sonargaon ga-083923",
+      "available_at": "Sonargaon",
+      "booked": false
+    },
+    {
+      "title": "Toyota Probox",
+      "type": "Premium",
+      "driver": "Harun Narayanganj",
+      "number": "Narayanganj ga-083923",
+      "available_at": "Narayanganj",
+      "booked": false
+    },
+    {
+      "title": "Toyota Fielder",
+      "type": "Premium",
+      "driver": "Harun Rangpur",
+      "number": "Rangpur ga-083923",
+      "available_at": "Rangpur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Corolla",
+      "type": "Premium",
+      "driver": "Harun Saidpur",
+      "number": "Saidpur ga-083923",
+      "available_at": "Saidpur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Noah",
+      "type": "Premium",
+      "driver": "Harun Dhaka 2",
+      "number": "dhaka ga-083923",
+      "available_at": "Dhaka",
+      "booked": false
+    },
+    {
+      "title": "Mitsubishi Pajero",
+      "type": "Premium",
+      "driver": "Harun Khulna 2",
+      "number": "Khulna ga-083923",
+      "available_at": "Khulna",
+      "booked": false
+    },
+    {
+      "title": "Toyota Allion",
+      "type": "Premium",
+      "driver": "Harun Gazipur 2",
+      "number": "Gazipur ga-083923",
+      "available_at": "Gazipur",
+      "booked": false
+    },
+    {
+      "title": "Toyota Axio",
+      "type": "Premium",
+      "driver": "Harun Chuadanga 2",
+      "number": "Chuadanga ga-083923",
+      "available_at": "Chuadanga",
+      "booked": false
+    },
+    {
+      "title": "Toyota Probox",
+      "type": "Premium",
+      "driver": "Harun Sonargaon 2",
+      "number": "Sonargaon ga-083923",
+      "available_at": "Sonargaon",
+      "booked": false
+    }
+  ]
+}
