@@ -2,43 +2,59 @@
   "cities": [
     {
       "name": "Dhaka",
-      "lat": 23.777176,
-      "lang": 90.399452
+      "location": {
+        "lat": 23.777176,
+        "lang": 90.399452
+      }
     },
     {
       "name": "Khulna",
-      "lat": 22.820000,
-      "lang": 89.550003
+      "location": {
+        "lat": 22.820000,
+        "lang": 89.550003
+      }
     },
     {
       "name": "Gazipur",
-      "lat": 23.999941,
-      "lang": 90.420273
+      "location": {
+        "lat": 23.999941,
+        "lang": 90.420273
+      }
     },
     {
       "name": "Chuadanga",
-      "lat": 23.643999,
-      "lang": 88.855637
+      "location": {
+        "lat": 23.643999,
+        "lang": 88.855637
+      }
     },
     {
       "name": "Sonargaon",
-      "lat": 23.644480,
-      "lang": 90.598434
+      "location": {
+        "lat": 23.644480,
+        "lang": 90.598434
+      }
     },
     {
       "name": "Narayanganj",
-      "lat": 23.622641,
-      "lang": 90.499794
+      "location": {
+        "lat": 23.622641,
+        "lang": 90.499794
+      }
     },
     {
       "name": "Rangpur",
-      "lat": 25.744860,
-      "lang": 89.275589
+      "location": {
+        "lat": 25.744860,
+        "lang": 89.275589
+      }
     },
     {
       "name": "Saidpur",
-      "lat": 25.778522,
-      "lang": 88.897377
+      "location": {
+        "lat": 25.778522,
+        "lang": 88.897377
+      }
     }
   ]
 }

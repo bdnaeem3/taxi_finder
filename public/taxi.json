@@ -5,7 +5,10 @@
       "type": "Normal",
       "driver": "Harun Dhaka",
       "number": "dhaka ga-083923",
-      "available_at": "Dhaka",
+      "location": {
+        "lat": 23.7891759,
+        "lang": 90.3561603
+      },
       "booked": false
     },
     {
@@ -13,7 +16,10 @@
       "type": "Normal",
       "driver": "Harun Khulna",
       "number": "Khulna ga-083923",
-      "available_at": "Khulna",
+      "location": {
+        "lat": 22.8454448,
+        "lang": 89.4624613
+      },
       "booked": false
     },
     {
@@ -21,7 +27,10 @@
       "type": "Normal",
       "driver": "Harun Gazipur",
       "number": "Gazipur ga-083923",
-      "available_at": "Gazipur",
+      "location": {
+        "lat": 23.9974145,
+        "lang": 90.4213439
+      },
       "booked": false
     },
     {
@@ -29,7 +38,10 @@
       "type": "Normal",
       "driver": "Harun Chuadanga",
       "number": "Chuadanga ga-083923",
-      "available_at": "Chuadanga",
+      "location": {
+        "lat": 23.6067684,
+        "lang": 88.8451474
+      },
       "booked": false
     },
     {
@@ -37,7 +49,10 @@
       "type": "Normal",
       "driver": "Harun Sonargaon",
       "number": "Sonargaon ga-083923",
-      "available_at": "Sonargaon",
+      "location": {
+        "lat": 23.6431697,
+        "lang": 90.5845541
+      },
       "booked": false
     },
     {
@@ -45,7 +60,10 @@
       "type": "Normal",
       "driver": "Harun Narayanganj",
       "number": "Narayanganj ga-083923",
-      "available_at": "Narayanganj",
+      "location": {
+        "lat": 23.6140066,
+        "lang": 90.5008543
+      },
       "booked": false
     },
     {
@@ -53,7 +71,10 @@
       "type": "Normal",
       "driver": "Harun Rangpur",
       "number": "Rangpur ga-083923",
-      "available_at": "Rangpur",
+      "location": {
+        "lat": 25.7480817,
+        "lang": 89.258086
+      },
       "booked": false
     },
     {
@@ -61,7 +82,10 @@
       "type": "Normal",
       "driver": "Harun Saidpur",
       "number": "Saidpur ga-083923",
-      "available_at": "Saidpur",
+      "location": {
+        "lat": 25.7898363,
+        "lang": 88.8607257
+      },
       "booked": false
     },
     {
@@ -69,7 +93,10 @@
       "type": "Normal",
       "driver": "Harun Dhaka 2",
       "number": "dhaka ga-083923",
-      "available_at": "Dhaka",
+      "location": {
+        "lat": 23.7853049,
+        "lang": 90.3340744
+      },
       "booked": false
     },
     {
@@ -77,7 +104,10 @@
       "type": "Normal",
       "driver": "Harun Khulna 2",
       "number": "Khulna ga-083923",
-      "available_at": "Khulna",
+      "location": {
+        "lat": 22.8156698,
+        "lang": 89.525924
+      },
       "booked": false
     },
     {
@@ -85,7 +115,10 @@
       "type": "Normal",
       "driver": "Harun Gazipur 2",
       "number": "Gazipur ga-083923",
-      "available_at": "Gazipur",
+      "location": {
+        "lat": 23.9923667,
+        "lang": 90.4101597
+      },
       "booked": false
     },
     {
@@ -93,7 +126,10 @@
       "type": "Normal",
       "driver": "Harun Chuadanga 2",
       "number": "Chuadanga ga-083923",
-      "available_at": "Chuadanga",
+      "location": {
+        "lat": 23.7618687,
+        "lang": 88.9400124
+      },
       "booked": false
     },
     {
@@ -101,7 +137,10 @@
       "type": "Normal",
       "driver": "Harun Sonargaon 2",
       "number": "Sonargaon ga-083923",
-      "available_at": "Sonargaon",
+      "location": {
+        "lat": 23.6351467,
+        "lang": 90.6027889
+      },
       "booked": false
     },
     {
@@ -109,7 +148,10 @@
       "type": "Premium",
       "driver": "Harun Dhaka",
       "number": "dhaka ga-083923",
-      "available_at": "Dhaka",
+      "location": {
+        "lat": 23.8195825,
+        "lang": 90.4368458
+      },
       "booked": false
     },
     {
@@ -117,7 +159,10 @@
       "type": "Premium",
       "driver": "Harun Khulna",
       "number": "Khulna ga-083923",
-      "available_at": "Khulna",
+      "location": {
+        "lat": 22.8434146,
+        "lang": 89.525924
+      },
       "booked": false
     },
     {
@@ -125,7 +170,10 @@
       "type": "Premium",
       "driver": "Harun Gazipur",
       "number": "Gazipur ga-083923",
-      "available_at": "Gazipur",
+      "location": {
+        "lat": 23.9982253,
+        "lang": 90.4040211
+      },
       "booked": false
     },
     {
@@ -133,7 +181,10 @@
       "type": "Premium",
       "driver": "Harun Chuadanga",
       "number": "Chuadanga ga-083923",
-      "available_at": "Chuadanga",
+      "location": {
+        "lat": 23.5191425,
+        "lang": 88.7773523
+      },
       "booked": false
     },
     {
@@ -141,7 +192,10 @@
       "type": "Premium",
       "driver": "Harun Sonargaon",
       "number": "Sonargaon ga-083923",
-      "available_at": "Sonargaon",
+      "location": {
+        "lat": 23.6340098,
+        "lang": 90.5853294
+      },
       "booked": false
     },
     {
@@ -149,7 +203,10 @@
       "type": "Premium",
       "driver": "Harun Narayanganj",
       "number": "Narayanganj ga-083923",
-      "available_at": "Narayanganj",
+      "location": {
+        "lat": 23.6037395,
+        "lang": 90.5001864
+      },
       "booked": false
     },
     {
@@ -157,7 +214,10 @@
       "type": "Premium",
       "driver": "Harun Rangpur",
       "number": "Rangpur ga-083923",
-      "available_at": "Rangpur",
+      "location": {
+        "lat": 25.7499116,
+        "lang": 89.227026
+      },
       "booked": false
     },
     {
@@ -165,7 +225,10 @@
       "type": "Premium",
       "driver": "Harun Saidpur",
       "number": "Saidpur ga-083923",
-      "available_at": "Saidpur",
+      "location": {
+        "lat": 25.7898363,
+        "lang": 88.8607257
+      },
       "booked": false
     },
     {
@@ -173,7 +236,10 @@
       "type": "Premium",
       "driver": "Harun Dhaka 2",
       "number": "dhaka ga-083923",
-      "available_at": "Dhaka",
+      "location": {
+        "lat": 23.8766719,
+        "lang": 90.3607784
+      },
       "booked": false
     },
     {
@@ -181,7 +247,10 @@
       "type": "Premium",
       "driver": "Harun Khulna 2",
       "number": "Khulna ga-083923",
-      "available_at": "Khulna",
+      "location": {
+        "lat": 22.8454448,
+        "lang": 89.4624613
+      },
       "booked": false
     },
     {
@@ -189,7 +258,10 @@
       "type": "Premium",
       "driver": "Harun Gazipur 2",
       "number": "Gazipur ga-083923",
-      "available_at": "Gazipur",
+      "location": {
+        "lat": 23.9923667,
+        "lang": 90.4101597
+      },
       "booked": false
     },
     {
@@ -197,7 +269,10 @@
       "type": "Premium",
       "driver": "Harun Chuadanga 2",
       "number": "Chuadanga ga-083923",
-      "available_at": "Chuadanga",
+      "location": {
+        "lat": 23.6059818,
+        "lang": 88.7655401
+      },
       "booked": false
     },
     {
@@ -205,7 +280,10 @@
       "type": "Premium",
       "driver": "Harun Sonargaon 2",
       "number": "Sonargaon ga-083923",
-      "available_at": "Sonargaon",
+      "location": {
+        "lat": 23.6468233,
+        "lang": 90.5795916
+      },
       "booked": false
     }
   ]
